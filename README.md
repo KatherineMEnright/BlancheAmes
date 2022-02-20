@@ -41,13 +41,12 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Multiple viewers
+## The Political Cartoonist
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+Blanche put her visual arts training to use as a political cartoonist, producing cartoons advocating for women's suffrage in such publications as X and Y. As research for her illustrations, Blanche (compiled or comissioned someone to compile) these scrapbooks, held at and digitized by the Schlesinger Library.
+
+<param ve-iframe src="https://iiif.lib.harvard.edu/manifests/view/drs:492540327$6i">
+
 
 # References
 
