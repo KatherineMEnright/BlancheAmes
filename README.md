@@ -12,14 +12,14 @@
 
 
 # Who was Blanche Ames?
-<p>start to CITE texts that we read for class <span eid="Q4924825">Blanche Ames Ames</span>
+<p>start to CITE texts that we read for class Blanche Ames Ames
 obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.</p>
 <param ve-image 
        fit="contain"
        manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
 ## The Botanical Illustrator
-Blanche....visual art degree...illustrator...her husband, Oake Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
+Blanche....visual art degree...illustrator...her husband, Oakes Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
 
 ## The Cartographer
 Perhaps little known fact—–Harvard owned/operated a botanical gardens in Cuba until (year). This map...shows the approach to the gardens. Made while her husband, Oakes was director. Suggest some reading on the Harvad botanic gardens in Cuba as imperial outpost.
