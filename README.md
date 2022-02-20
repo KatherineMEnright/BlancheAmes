@@ -17,25 +17,21 @@
 ## Who was Blanche Ames?
  - start to CITE texts that we read for class
  - obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.
-<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
+<param ve-image 
+       fit="contain"
+       manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
 ## Blanche's Archives at Harvard
 - Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them).
 
 ## The Botanical Illustrator
 Blanche....visual art degree...illustrator...her husband, Oake Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-       
+
 ## The Cartographer
 Perhaps little known fact—–Harvard owned/operated a botanical gardens in Cuba until (year). This map...shows the approach to the gardens. Made while her husband, Oakes was director. Suggest some reading on the Harvad botanic gardens in Cuba as imperial outpost.
 
 ## The Suffragist Cartoonist
 Blanche put her visual arts training to use as a political cartoonist, producing cartoons advocating for women's suffrage in such publications as X and Y. As research for her illustrations, Blanche (compiled or comissioned someone to compile) these scrapbooks, held at and digitized by the Schlesinger Library.
-
 <param ve-image 
        fit="contain"
        manifest="https://iiif.lib.harvard.edu/manifests/drs:492540327"
