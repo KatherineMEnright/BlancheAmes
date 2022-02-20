@@ -1,5 +1,4 @@
 
-
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
@@ -7,23 +6,20 @@
        author="Katherine Enright, GENED 1127"
        banner="https://en.wikipedia.org/wiki/Blanche_Ames_Ames#/media/File:Double_the_Power_of_the_Home_--_Two_Good_Votes_are_Better_Than_One.jpg" 
        layout="vertical">
-
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
+       
 <param ve-entity eid="Q4924825"> <!-- Blanche Ames Ames-->
 <param ve-entity eid="Q1669326"> <!-- Oakes Ames-->
 
+
+# Who was Blanche Ames?
+<p>start to CITE texts that we read for class
+obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.</p>
 <param ve-image 
        fit="contain"
        manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
-## Who was Blanche Ames?
-start to CITE texts that we read for class
-obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.
-
 ## Blanche's Archives at Harvard
-Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them).
+Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them). Portraits held at the [Harvard Art Museums](https://hvrd.art/o/304486) too 
 
 ## The Botanical Illustrator
 Blanche....visual art degree...illustrator...her husband, Oake Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
