@@ -11,36 +11,37 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Blanche Ames Ames-->
+<param ve-entity eid="Q4924825"> <!-- Blanche Ames Ames-->
+<param ve-entity eid="Q1669326"> <!-- Oakes Ames-->
 
 # Who was Blanche Ames?
-
-
-
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+ - start to CITE texts that we read for class
+ - obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.
+ 
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       fit="contain"
+       manifest="https://en.wikipedia.org/wiki/Blanche_Ames_Ames#/media/File:Photo_of_Blanche_Ames_Ames.jpg">
+<param ve-image
+       manifest="https://iiif.lib.harvard.edu/manifests/view/ids:1414860$1i">
 
-# Basic usage
+## Blanche's Archives at Harvard
 
-## Image
+- Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them).
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+## The Botanical Illustrator
+
+Blanche....visual art degree...illustrator...her husband, Oake Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       
+## The Cartographer
 
-## Map
+Perhaps little known fact—–Harvard owned/operated a botanical gardens in Cuba until (year). This map...shows the approach to the gardens. Made while her husband, Oakes was director. Suggest some reading on the Harvad botanic gardens in Cuba as imperial outpost.
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## The Political Cartoonist
+## The Suffragist Cartoonist
 
 Blanche put her visual arts training to use as a political cartoonist, producing cartoons advocating for women's suffrage in such publications as X and Y. As research for her illustrations, Blanche (compiled or comissioned someone to compile) these scrapbooks, held at and digitized by the Schlesinger Library.
 
@@ -49,7 +50,10 @@ Blanche put her visual arts training to use as a political cartoonist, producing
        manifest="https://iiif.lib.harvard.edu/manifests/drs:492540327"
        seq="5">
 
+## The Women's Health Advocate
 
+- Blanche was involved in birth control advocacy for women
+- Blanche also held ? position in the New England Hospital for Women and Children and did xyz.. fundraising to provide for a staff that was all women
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
