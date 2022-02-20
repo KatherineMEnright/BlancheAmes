@@ -12,14 +12,14 @@
 
 
 # Who was Blanche Ames?
-<p>start to CITE texts that we read for class
+<p>start to CITE texts that we read for class <span eid="Q4924825">Blanche Ames Ames</span>
 obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.</p>
 <param ve-image 
        fit="contain"
        manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
 ## Blanche's Archives at Harvard
-Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them). Portraits held at the [Harvard Art Museums](https://hvrd.art/o/304486) too 
+Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them). Portraits held at the [Harvard Art Museums](https://hvrd.art/o/304486) too and her correspondece in the [Harvard University Archives](https://hollisarchives.lib.harvard.edu/repositories/4/archival_objects/1088721)
 
 ## The Botanical Illustrator
 Blanche....visual art degree...illustrator...her husband, Oake Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
