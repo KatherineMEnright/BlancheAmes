@@ -14,15 +14,16 @@
 <param ve-entity eid="Q4924825"> <!-- Blanche Ames Ames-->
 <param ve-entity eid="Q1669326"> <!-- Oakes Ames-->
 
-## Who was Blanche Ames?
- - start to CITE texts that we read for class
- - obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.
 <param ve-image 
        fit="contain"
        manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
+## Who was Blanche Ames?
+start to CITE texts that we read for class
+obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.
+
 ## Blanche's Archives at Harvard
-- Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them).
+Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them).
 
 ## The Botanical Illustrator
 Blanche....visual art degree...illustrator...her husband, Oake Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
