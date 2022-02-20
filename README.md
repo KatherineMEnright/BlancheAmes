@@ -1,22 +1,21 @@
-# Blanche Ames
+
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Highlights from Harvard's Blanche Ames Collections"
-       author="Katherine Enright"
+       author="Katherine Enright, GENED 1127"
        banner="https://en.wikipedia.org/wiki/Blanche_Ames_Ames#/media/File:Double_the_Power_of_the_Home_--_Two_Good_Votes_are_Better_Than_One.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q185372"> <!-- Blanche Ames Ames-->
 
-# Sample visual essay
+# Who was Blanche Ames?
+
+
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
@@ -45,8 +44,8 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 Blanche put her visual arts training to use as a political cartoonist, producing cartoons advocating for women's suffrage in such publications as X and Y. As research for her illustrations, Blanche (compiled or comissioned someone to compile) these scrapbooks, held at and digitized by the Schlesinger Library.
 
-<param ve-iframe 
-       src="https://iiif.lib.harvard.edu/manifests/drs:492540327">
+<param ve-image 
+       manifest="https://iiif.lib.harvard.edu/manifests/drs:492540327">
 
 
 # References
