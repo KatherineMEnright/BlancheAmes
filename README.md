@@ -18,8 +18,8 @@
  - start to CITE texts that we read for class
  - obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.
  
-<param ve-image
-       manifest="https://iiif.lib.harvard.edu/manifests/view/ids:1414860$1i">
+ <param ve-image
+       manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
 ## Blanche's Archives at Harvard
 
