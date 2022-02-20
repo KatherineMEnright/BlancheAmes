@@ -45,7 +45,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 Blanche put her visual arts training to use as a political cartoonist, producing cartoons advocating for women's suffrage in such publications as X and Y. As research for her illustrations, Blanche (compiled or comissioned someone to compile) these scrapbooks, held at and digitized by the Schlesinger Library.
 
 <param ve-image 
-       manifest="https://iiif.lib.harvard.edu/manifests/drs:492540327">
+       manifest="https://iiif.lib.harvard.edu/manifests/view/drs:492540327$6i">
 
 
 # References
