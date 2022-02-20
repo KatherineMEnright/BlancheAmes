@@ -42,3 +42,8 @@ Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes he
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+https://lemelson.mit.edu/resources/blanche-ames
+https://www.harvardmagazine.com/2017/07/blanche-ames
+https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1003&context=art_facpub
+
+
