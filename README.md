@@ -3,7 +3,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="/Highlights from Harvard's Blanche Ames Collections"
+       title="Highlights from Harvard's Blanche Ames Collections"
        author="Katherine Enright"
        banner="https://en.wikipedia.org/wiki/Blanche_Ames_Ames#/media/File:Double_the_Power_of_the_Home_--_Two_Good_Votes_are_Better_Than_One.jpg" 
        layout="vertical">
