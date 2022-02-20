@@ -46,7 +46,7 @@ Blanche put her visual arts training to use as a political cartoonist, producing
 
 <param ve-image 
        manifest="https://iiif.lib.harvard.edu/manifests/drs:492540327"
-       seq="6">
+       seq="5">
 
 
 # References
