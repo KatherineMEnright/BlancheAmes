@@ -17,8 +17,7 @@
 ## Who was Blanche Ames?
  - start to CITE texts that we read for class
  - obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.
-<param ve-image
-       manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
+<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
 ## Blanche's Archives at Harvard
 - Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them).
