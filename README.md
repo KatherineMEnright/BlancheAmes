@@ -18,9 +18,6 @@ obviously her forays into science——as botanical illustrator, as women's heal
        fit="contain"
        manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
-## Blanche's Archives at Harvard
-Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them). Portraits held at the [Harvard Art Museums](https://hvrd.art/o/304486) too and her correspondece in the [Harvard University Archives](https://hollisarchives.lib.harvard.edu/repositories/4/archival_objects/1088721)
-
 ## The Botanical Illustrator
 Blanche....visual art degree...illustrator...her husband, Oake Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
 
@@ -38,6 +35,10 @@ Blanche put her visual arts training to use as a political cartoonist, producing
 
 - Blanche was involved in birth control advocacy for women
 - Blanche also held ? position in the New England Hospital for Women and Children and did xyz.. fundraising to provide for a staff that was all women
+
+## Blanche's Archives at Harvard
+Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them). Portraits held at the [Harvard Art Museums](https://hvrd.art/o/304486) too and her correspondece in the [Harvard University Archives](https://hollisarchives.lib.harvard.edu/repositories/4/archival_objects/1088721)
+
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
