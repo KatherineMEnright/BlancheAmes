@@ -10,7 +10,6 @@
 <param ve-entity eid="Q4924825"> <!-- Blanche Ames Ames-->
 <param ve-entity eid="Q1669326"> <!-- Oakes Ames-->
 
-
 # Who was Blanche Ames?
 <p>start to CITE texts that we read for class Blanche Ames Ames
 obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.</p>
@@ -18,8 +17,9 @@ obviously her forays into science——as botanical illustrator, as women's heal
        fit="contain"
        manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
 
-## The Botanical Illustrator
-Blanche....visual art degree...illustrator...her husband, Oakes Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
+## The Botanical Illustrator, Educator
+Blanche....visual art degree...illustrator...her husband, Oakes Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? posters for education Maybe[^1]
+link to BHL edition of Ames' 7-volume orchid book
 
 <param ve-image 
        fit="contain"
@@ -29,7 +29,7 @@ Blanche....visual art degree...illustrator...her husband, Oakes Ames, (title/rol
        fit="contain"
        url="Maxillaria tenuifolia lindt.jpg">
        
-## The Cartographer
+## Botanical Museum & Botanic Gardens
 Perhaps little known fact—–Harvard owned/operated a botanical gardens in Cuba until (year). This map...shows the approach to the gardens. Made while her husband, Oakes was director. Suggest some reading on the Harvad botanic gardens in Cuba as imperial outpost.
 
 <param ve-image 
