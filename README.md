@@ -1,10 +1,9 @@
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
 <param ve-config 
        title="Highlights from Harvard's Blanche Ames Collections"
        author="Katherine Enright, GENED 1127"
-       banner="https://github.com/KatherineMEnright/BlancheAmes/blob/117c3c81221a00467ea56e08a253414300e64cb3/archi%20poster.jpg" 
+       banner="https://github.com/KatherineMEnright/BlancheAmes/blob/c0b080a2599d6feba80e8fcc29a7e751ae553905/archi%20poster%20zoom.jpg" 
        layout="vertical">
        
 <param ve-entity eid="Q4924825"> <!-- Blanche Ames Ames-->
