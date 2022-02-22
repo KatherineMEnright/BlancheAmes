@@ -44,10 +44,11 @@ Blanche put her visual arts training to use as a political cartoonist, producing
        manifest="https://iiif.lib.harvard.edu/manifests/drs:492540327"
        seq="5">
 
-## The Women's Health Advocate
+## The Women's Health Advocate, Patron, Administrator
 
 - Blanche was involved in birth control advocacy for women
 - Blanche also held ? position in the New England Hospital for Women and Children and did xyz.. fundraising to provide for a staff that was all women
+- History of the New England Hospital...training for women physicians, access for healthcare for women
 
 ## Blanche's Archives at Harvard
 Schlesinger library; Botany Libraries; Arnold Arboretum has xyz that includes her correspondence as well. The following-- a highlight of some of these (link to them). Portraits held at the [Harvard Art Museums](https://hvrd.art/o/304486) too and her correspondece in the [Harvard University Archives](https://hollisarchives.lib.harvard.edu/repositories/4/archival_objects/1088721)
