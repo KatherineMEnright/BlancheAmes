@@ -21,6 +21,10 @@ obviously her forays into science——as botanical illustrator, as women's heal
 ## The Botanical Illustrator
 Blanche....visual art degree...illustrator...her husband, Oakes Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? Maybe[^1]
 
+<param ve-image 
+       fit="contain"
+       url="gymno poster.jpg">
+       
 ## The Cartographer
 Perhaps little known fact—–Harvard owned/operated a botanical gardens in Cuba until (year). This map...shows the approach to the gardens. Made while her husband, Oakes was director. Suggest some reading on the Harvad botanic gardens in Cuba as imperial outpost.
 
