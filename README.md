@@ -25,8 +25,16 @@ Blanche....visual art degree...illustrator...her husband, Oakes Ames, (title/rol
        fit="contain"
        url="gymno poster.jpg">
        
+<param ve-image 
+       fit="contain"
+       url="Maxillaria tenuifolia lindt.jpg">
+       
 ## The Cartographer
 Perhaps little known fact—–Harvard owned/operated a botanical gardens in Cuba until (year). This map...shows the approach to the gardens. Made while her husband, Oakes was director. Suggest some reading on the Harvad botanic gardens in Cuba as imperial outpost.
+
+<param ve-image 
+       fit="contain"
+       url="cuba map.jpg">
 
 ## The Suffragist Cartoonist
 Blanche put her visual arts training to use as a political cartoonist, producing cartoons advocating for women's suffrage in such publications as X and Y. As research for her illustrations, Blanche (compiled or comissioned someone to compile) these scrapbooks, held at and digitized by the Schlesinger Library.
