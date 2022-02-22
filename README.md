@@ -2,7 +2,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Highlights from Harvard's Blanche Ames Collections"
+       title="Artist, Botanist, Campaigner: Blanche Ames"
        author="Katherine Enright, GENED 1127"
        banner="banner.jpg" 
        layout="vertical">
