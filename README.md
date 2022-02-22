@@ -4,7 +4,7 @@
 <param ve-config 
        title="Highlights from Harvard's Blanche Ames Collections"
        author="Katherine Enright, GENED 1127"
-       banner="https://en.wikipedia.org/wiki/Blanche_Ames_Ames#/media/File:Double_the_Power_of_the_Home_--_Two_Good_Votes_are_Better_Than_One.jpg" 
+       banner="https://github.com/KatherineMEnright/BlancheAmes/blob/117c3c81221a00467ea56e08a253414300e64cb3/archi%20poster.jpg" 
        layout="vertical">
        
 <param ve-entity eid="Q4924825"> <!-- Blanche Ames Ames-->
