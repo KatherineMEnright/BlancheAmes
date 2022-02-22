@@ -34,6 +34,7 @@ Perhaps little known fact—–Harvard owned/operated a botanical gardens in Cub
 
 <param ve-image 
        fit="contain"
+       rotate="270"
        url="cuba map.jpg">
 
 ## The Suffragist Cartoonist
