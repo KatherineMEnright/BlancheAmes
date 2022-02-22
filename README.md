@@ -5,6 +5,7 @@
        title="Highlights from Harvard's Blanche Ames Collections"
        author="Katherine Enright, GENED 1127"
        banner="archi poster zoom.jpg" 
+       fit="contain"
        layout="vertical">
        
 <param ve-entity eid="Q4924825"> <!-- Blanche Ames Ames-->
