@@ -4,8 +4,7 @@
 <param ve-config 
        title="Highlights from Harvard's Blanche Ames Collections"
        author="Katherine Enright, GENED 1127"
-       banner="archi poster zoom.jpg" 
-       fit="contain"
+       banner="archi poster zoom/full.jpg" 
        layout="vertical">
        
 <param ve-entity eid="Q4924825"> <!-- Blanche Ames Ames-->
