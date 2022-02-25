@@ -33,12 +33,16 @@ Blanche first turned her hand to botanical illustration in collaboration with he
 
 <param ve-image 
        fit="contain"
+       label="Maxillaria tenuifolia lindt, illustration by Blanche Ames" 
+       attribution="Archives of the Oakes Ames Orchid Herbarium, Harvard University"
        url="Maxillaria tenuifolia lindt.jpg">
        
-Yet it was not only in her illustrations that Blanche "played her part in the development of [Oakes'] major concern, the Botanical Museum."[^8]. In the 1920s, Blanche produced a series of educational charts, showing both the phylogentic relationships and key economic botany products of different plant groups. The banner image of this site, for example, featurers her illustrations of the Archichlamydae, and the image to the right is her poster of Gymnosperms. This unqiue illustration tool is literally a phylogenetic *tree*, cleverly using morphological features of different gymnosperms—like cones and leaves—to illustrate each species and their inter-relations. The posters were used to teach a Harvard course entitled "Plants and Human Affairs," and in 1969 were still in use, having "helped interpret plant classification to hundreds of students for more than fifty years and...stamped a unique character on Harvard’s teaching in [Economic Botany].” [^9] The original posters on canvas are held by Harvard's Botany Libraries, and today framed versions line Harvard University Herbarium lobby and the Botany Library reading room. Though never a professor herself, its is clear that Blanche had significant influence on the pedagogy of Harvard even before Harvard clases first opened to Radcliffe women in 1946.
+Yet it was not only in her illustrations that Blanche "played her part in the development of [Oakes'] major concern, the Botanical Museum."[^8]. In the 1920s, Blanche produced a series of educational charts, showing both the phylogentic relationships and key economic botany products of different plant groups. The banner image of this site, for example, featurers her illustrations of the Archichlamydae, and the image to the right is her poster of Gymnosperms. This unqiue illustration tool is literally a phylogenetic *tree*, cleverly using morphological features of different gymnosperms—like cones and leaves—to illustrate each genera and their inter-relations. The posters were used to teach a Harvard course entitled "Plants and Human Affairs," and in 1969 were still in use, having "helped interpret plant classification to hundreds of students for more than fifty years and...stamped a unique character on Harvard’s teaching in [Economic Botany].” [^9] The original posters on canvas are held by Harvard's Botany Libraries, and today framed versions line Harvard University Herbarium lobby and the Botany Library reading room. Though never a professor herself, its is clear that Blanche had significant influence on the pedagogy of Harvard even before Harvard clases first opened to Radcliffe women in 1946.
 
 <param ve-image 
        fit="contain"
+       label="Genera of the Gymnospermae with the more important Economic Species arranged after Engler & Glig, by Blanche Ames, 1919"
+       attribution="Archives of the Economic Botany Herbarium of Oakes Ames, Harvard University"
        url="gymno poster.jpg">
        
        
