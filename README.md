@@ -30,16 +30,18 @@ Acknowledging Blanche’s connections and privilege is not, of course, to dimini
 ## The Botanical Illustrator, Educator
 Blanche....visual art degree...illustrator...her husband, Oakes Ames, (title/role/position). She was especially known for her illustrations of orchids...and gave lectures? on them? posters for education Maybe
 “Oakes and Blanche Ames worked together as a team from the beginning of their marriage in 1900.” “through the years made virtually all the illustrations for his botanical books” (1)
-“Later, she made pen and ink drawings using a microscope and sometimes a camera lucida for scientifi exactness. The orchids she drew were dried or preserved in alcohol, but she transmuted them into the natural and the living” (1)
+“Later, she made pen and ink drawings using a microscope and sometimes a camera lucida for scientifi exactness. The orchids she drew were dried or preserved in alcohol, but she transmuted them into the natural and the living” (1)This example is of an orchid native to Mexico and central america—as description says, lifelike and vivid in color.
 Oakes wrote to his daughter, of the volume of orchids of florida, “I play ‘junior author’, being respisnible simply for the text’” (2)
 link to BHL edition of Ames' 7-volume orchid bookhttps://www.biodiversitylibrary.org/bibliography/15433
 
 <param ve-image 
        fit="contain"
        url="Maxillaria tenuifolia lindt.jpg">
+       
  “It was not only in the illustration of Oakes’ many books and technical papers in orchidology that Blanche plate dher pat in the development of his major concern, the Botancal Museum In the 1920’s, she created the unique “Ames’ Charts”—phylogenetic charts of the Spermatophyte, which she illustrated with the important economic plants, thereby greatly enhancing the teaching of economic botany. These charts are still a basic tool in the teaching of the Harvard course “Plants and Human Affairs”. (Foreword, vi).
       
 “Still in use today, the charts have helped interpret plant classdificatio to hundreds of students for more than fifty years and have tamped a unique character on Harvard’s teaching in [Economic Botany].” 254
+This image to the right is of one such poster, the originals of which, on canvas, are held by Harvard's botany library. Framed versions line the building and Botany Library reading room today. Gymnosperms...see something from the poster.
 POSTERS
 <param ve-image 
        fit="contain"
