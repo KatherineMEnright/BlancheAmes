@@ -59,8 +59,7 @@ The cartouche bearing the words “Harvard Botanical Garden” and the Harvard V
 This map is but one example of Blanche’s contribution to the running of Harvard’s Botanical Garden and Museum alongside her husband who held the formal role of Director at these institutions.
 
 <param ve-image 
-       fit="contain"
-       zoomto="511,934,987,1402"
+       region="511,934,987,1402"
        rotate="270"
        url="cuba map.jpg">
 
