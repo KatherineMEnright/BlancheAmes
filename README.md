@@ -11,8 +11,13 @@
 <param ve-entity eid="Q1669326"> <!-- Oakes Ames-->
 
 # Who was Blanche Ames?
-<p>start to CITE texts that we read for class Blanche Ames Ames
-obviously her forays into science——as botanical illustrator, as women's health advocate...enabled by proximity to her husband and her social class. This is not to diminish her considerable achievements and untiring civic participation.</p>
+<p>Born in 1878…Blanche… known as botanical illustrator and women’s rights advocate…her achievements far and wide, and include even a U.S. patent for ensaring enemy aircraft. The estate she built/lived in with her husband, Oakes Ames, is now a Massacusetts State Park…and…active historical society…made a documentary about her.
+Like many women of the time who were able to enter science, Blanche graduated from a women’s college—Smith, in 1900—and her entry was enabled by connections to her male family members.(CITE Rossiter here).  First of all, she came from wealth—the daughter of ? and ?—and so had no pressing need to find work for pay. Her first forays into botanical illustration, following her visual arts degree from Smith, came in the form of illustrating the botanical research of her husband, Harvard botany professor Oakes Ames. Indeed, throughout her long career as a scientific illustrator and creator of educational materials, Blanche was never a professional, per se, nor did she draw a salary for her work. (CITE) In fact, writing in a …memorial after her death, the then-director of the Botanical Museum described Blanche as “wife and lifelong helpmeet of Professor OAkes Ames, second director of the Botanical Museum, “ and noted that despite her contribtusions to the institution—”so profound they will always be appreciated…in the Museum and…the world of botany”— “Blanche Ames never held an official appointment as member of the Museum staff.” (253)
+       
+In this respect, her work…bears similarity to the stories of women at Harvard’s Museum of Compartive Zoology in the same time period, as Reed Gochberg highlights in (link to exhibit). Even as women began to enter the workforce in clerical and secretarial roles at the turn of the 20th century, many women of a certain social class—like Elizabeth Bangs Bryant—worked at Harvard’s museums as ‘volunteers’ or in aid of the husbands’ or fathers’ research (LINK). 
+       
+Acknowledging Blanche’s connections and privilege is not, of course, to diminish the quality of her scientific work nor her untiring civic participation. Outside her botanical work, and quite independent of her husband, Blanche was in her own right an advocate…for women’s suffrage, cartoons and organsing, galvanising the vote for legalising birth control, and she served as board member, patron, and director of the New England Hospital for Women and Children—an institution designed to train women doctors and provide care for women by women, and so itself a fascinating case study…of the field…of both women in medicine and advances in women’s health.
+</p>
 <param ve-image 
        fit="contain"
        manifest="https://iiif.lib.harvard.edu/manifests/ids:1414860">
