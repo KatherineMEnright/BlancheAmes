@@ -11,8 +11,8 @@
 <param ve-entity eid="Q1669326"> <!-- Oakes Ames-->
 
 # Who was Blanche Ames?
-Born in 1878…Blanche… known as botanical illustrator and women’s rights advocate…her achievements far and wide, and include even a U.S. patent for ensaring enemy aircraft.[^1] The estate she built/lived in with her husband, Oakes Ames, is now a Massacusetts State Park…and…active historical society…made a documentary about her.
-*insert link to documentary trailer*
+Born in 1878 in Lowell, Massachusetts, Blanche Ames was known for work as a botanical illustrator and a women’s rights and health advocate. From illustrating the seven-volume *Illustrations and studies of the family Orchidaceae* to co-founding the Birth Control League of Massachusetts, her achievements were many—and even include receiving a U.S. patent for a technology to ensare enemy aircraft.[^1] The estate she built in with her husband, Oakes Ames, is now a Massacusetts [State Park](https://www.mass.gov/locations/borderland-state-park)—and famously one of the filming locations for 2017 horror film *Get Out*. Borderland, the name of the estate, is also the title of a ?? documentary about Blanche and her women's rights activism, the trailer for which is on the right.
+<param ve-video id="JxiSu1JZLDo" title="Borderland Trailer">
        
 Like many women of the time who were able to enter science, Blanche graduated from a women’s college—Smith, in 1900—and her entry into the field of botany was enabled by connections to her male family members.(CITE Rossiter here).[^2]  First of all, she came from wealth—the daughter of ? and ?—and so had no pressing need to find work for pay. Her first forays into botanical illustration, following her visual arts degree from Smith, came in the form of illustrating the botanical research of her husband, Harvard botany professor Oakes Ames. Indeed, throughout her long career as a scientific illustrator and creator of educational materials, Blanche was never a professional, per se, nor did she draw a salary for her work. In fact, writing in a memorial after her death, the then-director of the Botanical Museum described Blanche as “wife and lifelong helpmeet of Professor Oakes Ames, second director of the Botanical Museum," and noted that despite her contribtusions to the institution—”so profound they will always be appreciated…in the Museum and…the world of botany”— “Blanche Ames never held an official appointment as member of the Museum staff.” [^3]
 <param ve-image 
@@ -62,8 +62,9 @@ Harvard is fortunate to host a wide collection of Blanche Ames’ papers, corres
 
 # References
 Banner image:
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
-https://lemelson.mit.edu/resources/blanche-ames
+[^1]: https://lemelson.mit.edu/resources/blanche-ames?fbclid=IwAR19ouuZapwIENLtpvSl1X68loZUH-453__CPBYtVMnIbk5F09l1VxK0c3M
+
+
 https://www.harvardmagazine.com/2017/07/blanche-ames
 https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1003&context=art_facpub
 
