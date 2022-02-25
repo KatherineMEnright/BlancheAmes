@@ -59,6 +59,8 @@ The cartouche bearing the words “Harvard Botanical Garden” and the Harvard V
 <param ve-image 
        region="511,934,987,1402"
        rotate="270"
+       label="Approach to the Harvard Botanic Garden in Cuba, by Blanche Ames, 1903"
+       attribution="Archives of the Economic Botany Herbarium of Oakes Ames, Harvard University"
        url="cuba map.jpg">
 
 ## The Suffragist Cartoonist
@@ -72,7 +74,20 @@ Besides her work in botanical illustration, Blanche also put her visual arts tra
 ## The Women's Health Advocate, Patron, Administrator
 
 - Blanche was involved in birth control advocacy for women
+<param ve-image 
+       fit="contain"
+       url="Contraceptive Vote.jpg">
+
 - Blanche also held ? position in the New England Hospital for Women and Children and did xyz.. fundraising to provide for a staff that was all women
+
+<param ve-image 
+       fit="contain"
+       url="Dr brown 1.jpg">
+<param ve-image 
+       fit="contain"
+       url="Dr brown 2.jpg">
+       
+
 - History of the New England Hospital...training for women physicians, access for healthcare for women
 
 ## Blanche's Archives at Harvard
