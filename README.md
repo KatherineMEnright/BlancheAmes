@@ -48,7 +48,7 @@ POSTERS
        url="gymno poster.jpg">
        
        
-## Botanical Museum & Botanic Gardens
+## Harvard Botanic Garden
 It is a fact perhaps little known on campus today, but from 1901 to 1961 Harvard scientists operated a botanical garden in Cuba. Today the Cienfuegos Botanical Garden owned by the Cuban government, it was first established by Boston-based merchant [Edwin Atkins](https://www.masshist.org/features/online/photographs/atkins)—in conjunction with Oakes Ames and George Goodale—as an experimental station for the growth of sugarcane for the immensely profitable sugar trade. Oakes Ames would be its director(years-years) in conjunction with his role at the Harvard Botanical Museum. This map, dated to 1903, is an original pen-and-ink drawing of Cuba and its surrounding territories, marking the location of Cienfuegos. Though unsigned, a posthumously-published collection of Oakes Ames’ writings attributes the map to Blanche. The map itself might strike a viewer as sparse or devoid of detail—that is, if you were expecting a navigational aid. Instead, this map appears to have served a largely symbolic purpose of establishing Harvard’s ownership of the Garden a mere two years after its founding. 
 <param ve-image 
        fit="contain"
