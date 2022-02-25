@@ -77,6 +77,8 @@ Besides her work in botanical illustration, Blanche also put her visual arts tra
 
 ## Blanche's Archives at Harvard
 Harvard is fortunate to host a wide collection of Blanche Ames’ papers, correspondence, and artwork across a number of holding libraries; the aim of this project was to bring some of these together to highlight Ames’ remarkable achievements across so many fields of endeavor. The Schlesinger Library holds a collection of Blanche Ames’ [papers](https://hollisarchives.lib.harvard.edu/repositories/8/resources/5221) and a separate digitized series of [her materials in the Women’s Suffrage collection](https://hollisarchives.lib.harvard.edu/repositories/8/resources/8098); the Botany Libraries hold materials from the [Botanical illustrations from the Oakes Ames Orchid Herbarium](https://hollisarchives.lib.harvard.edu/repositories/28/resources/10959#), including many of Ames’ botanical illustrations, educational posters, and artwork as well as those by other women artists; the Arnold Arboretum Archives holds the papers of other women scientists, like Susan McKelvey, who [corresponded with Blanche](https://hollisarchives.lib.harvard.edu/repositories/13/archival_objects/26700); the Harvard University Archives holds a [collection of Blanche Ames correspondence](https://hollisarchives.lib.harvard.edu/repositories/4/archival_objects/1088721) related to the Harvard Botanical Museum within the Oakes Ames papers; and finally, the Harvard Art Museum holds three of Blanche Ames’ [oil portraits](https://hvrd.art/o/304486).
+<param ve-iframe src="https://harvardartmuseums.org/collections/person/29626?person=29626">
+
 
 # References
 Banner image:
