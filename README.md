@@ -12,7 +12,6 @@
 <param ve-entity eid="Q354194"> <!-- Adelbert Ames-->
 <param ve-entity eid="Q817488"> <!-- Benjamin Butler-->
 
-
 # Who was Blanche Ames?
 Born in 1878 in Lowell, Massachusetts, Blanche Ames was known for her work as a botanical illustrator and a women’s rights and health advocate. From producing hundreds of illustrations of orchids to co-founding the Birth Control League of Massachusetts, her achievements were many—and even include a U.S. patent for a technology to ensare enemy aircraft.[^1] The estate she built in with her husband, Oakes Ames, is now a Massacusetts [State Park](https://www.mass.gov/locations/borderland-state-park)—and famously one of the filming locations for 2017 horror film *Get Out*. Borderland, the name of the estate, is also the title of a 2020 documentary about Blanche and her women's rights activism, the trailer for which is on the right.
 <param ve-video id="JxiSu1JZLDo" title="Borderland Trailer">
@@ -24,7 +23,7 @@ Like many women of the time who were able to enter science, Blanche graduated fr
        
 In this respect, Blanche's career in science bears similarity to the stories of women at Harvard’s Museum of Compartive Zoology in the same time period, as Reed Gochberg highlights in her exhibit ["Women of the Museum, 1860–1920: Behind-the-Screens at the Museum of Comparative Zoology."](https://hmsc.harvard.edu/women-museum) Even as women began to enter the workforce in clerical and secretarial roles at the turn of the 20th century—and to take on low-paying, feminized scientific jobs like astronomical computers and botanical assistants—many women of a higher social class, like Blanche Ames and [Elizabeth Bangs Bryant](https://hmsc.harvard.edu/beyond-museum), worked at Harvard’s museums as unpaid ‘volunteers' often in aid of the husbands’ or fathers’ research, considered 'amateur' by dint of their lack of salary though not of skill.[^4]
 
-Acknowledging Blanche’s connections and privilege is not, of course, to diminish the quality of her scientific work nor her untiring civic participation. Outside her botanical work, and quite independent of her husband, Blanche was in her own right an advocate for women’s suffrage through her cartoons and organzing for the vote to legalize birth control. Later in life she served as board member, patron, and director of the New England Hospital for Women and Children—an institution designed to train women doctors and provide care *for* women *by* women, and itself a fascinating case study in the history of both women in medicine and advances in women’s health.
+Acknowledging Blanche’s connections and privilege is not, of course, to diminish the quality of her scientific work nor her untiring civic participation. Outside her botanical work, and supported by her husband, Blanche was in her own right an advocate for women’s suffrage through her cartoons and organzing for the vote to legalize birth control. Later in life she served as board member, patron, and director of the New England Hospital for Women and Children—an institution designed to train women doctors and provide care *for* women *by* women, and itself a fascinating case study in the history of both women in medicine and advances in women’s health.
 
 ## The Botanical Illustrator & Educator
 Blanche first turned her hand to botanical illustration in collaboration with her husband's orchid research, and “through the years made virtually all the illustrations for his botanical books.”[^5] Her work was both artistic and rigorously scientific—her daughter described Blanche making her drawings "using a microscope and sometimes a camera lucida for scientific exactness," working from specimens "dried or preserved in alcohol" that Blanche's skill in illustration and coloring "transmuted..into the natural and the living."[^6] This lifelike and vividly colorful illustration, of the *Maxillaria tenuifolia* orchid native to Mexico and Central America, is evidence of Blanche's skill. By all accounts, Oakes greatly admired his wife's abilities and considered her an equal collaborator. Blanche's name appears at the bottom of the illustrated plates in Oakes'[*Illustrations and studies of the family Orchidaceae*](https://www.biodiversitylibrary.org/bibliography/15433), but in the later volume they produced together, *Drawings of Florida Orchids* (1959), her name is listed as first author. In a letter to his daughter Pauline, Oakes praised Blanche's illustrations and wrote of the volume, “I play ‘junior author’, being responsible simply for the text.”[^7] Although coming later in her career, this recognition of authorship firmly established Blanche's title of botanical "researcher" alongside her husband, in recognition of the depth of her expertise and the importance of her contributions to bontical knowledge.
@@ -43,7 +42,7 @@ Yet it was not only in her illustrations that Blanche "played her part in the de
        attribution="Archives of the Economic Botany Herbarium of Oakes Ames, Harvard University"
        url="gymno poster.jpg">
  
-## Harvard Botanic Garden
+## The Cartographer: Harvard Botanic Garden
 It is a fact perhaps little known on campus today, but from 1901 to 1961 Harvard scientists operated a botanical garden in Cuba. Today the Cienfuegos Botanical Garden owned by the Cuban government, it was first established by Boston-based merchant [Edwin Atkins](https://www.masshist.org/features/online/photographs/atkins)—in conjunction with Harvard botanists Oakes Ames and George Goodale—as an experimental station for the growth of sugarcane for the immensely profitable sugar trade. As with the Botanical Museum, Blanche was connected to the institution through her husband Oakes Ames—he would be the Garden's Assistant Director and then Director from its founding until 1922 before assuming his administrative roles at the Botanical Museum, which he held until 1950. This map, dated to 1903, is an original pen-and-ink drawing of Cuba and its surrounding territories, marking the location of Cienfuegos. Though unsigned, a posthumously-published collection of Oakes Ames’ writings attributes the map to Blanche.[^10] The map itself might strike a viewer as sparse or devoid of detail—that is, if you were expecting a navigational aid. Instead, this map appears to have served a largely symbolic purpose of establishing Harvard’s ownership of the Garden a mere two years after its founding. 
 <param ve-image 
        fit="contain"
@@ -71,7 +70,8 @@ Besides her work in botanical illustration, Blanche also put her visual arts tra
 
 ## The Women's Health Advocate, Patron & Administrator
 
-One such cause to which Blanche was devoted was the fight for the right of Massachusetts women to access contraceptives and birth control, a crucial women's health issue. In ?? year, Blanche co-founded the Birth Control League of Massachusetts, and served as its president for ??? years. The pamphlet to the right is among the print materials related to the campaign that Blanche collected....the same folder includes a copy of the papal decree...and Blanche's two-page rebuttal addressed to ..the citizens of Boston...pleading the public not to let Roman Catholic religious doctrine dictate the matter of public health.
+One such cause to which Blanche was devoted was the fight for the right of Massachusetts women to access contraceptives and birth control, which she saw a crucial women's health issue. In 1916, Blanche co-founded the Birth Control League of Massachusetts, and served as its president for 19 years a years. older includes a copy of the papal decree..
+s.and Blanche's two-page rebuttal addressed to .."my dear fellow-citizens" of Masachussetts...pleading the public not to let Roman Catholic religious doctrine dictate the matter of public health..Senate Bill No. 43 at the MA State House in 1931. "We who are not members of the Catholic Church cannot submit to its domination in this case without sacriciing the lives andhelah of married women and their babies." [] The pamphlet to the right is among the print materials related to the campaign that Blanche collected, this time for a referendum on contraceptive use in 1942. Therw was a long road still ahead, as birth control did not become legalized in Massachusetts until 1966. [^] 
 
 <param ve-image 
        fit="contain"
@@ -79,18 +79,22 @@ One such cause to which Blanche was devoted was the fight for the right of Massa
        attribution="Blanche Ames Papers, 1860-1961; MC 193, folder 5. Schlesinger Library, Radcliffe Institute, Harvard University."
        url="Contraceptive Vote.jpg">
 
-Blanche also held ? position in the New England Hospital for Women and Children and did xyz.. fundraising to provide for a staff that was all women. istory of the New England Hospital...training for women physicians, access for healthcare for women
+Blanche was also closely involved with the New England Hospital for Women and Children and became its President in 1941. Founded in ?, with the goal of...training for women physicians, access for healthcare for women.  The letter displayed on the right...shows her commitment to the Hospital's founding principle of primarily hiring and training women doctors. Indeed, Blanche led a fundraising campaign to ensure that...this could continue. Her folders...also include annual reports of the New England Hospital dating back to 18??, which in themselves represent a remarkable archive of women in medical science in America.
 
 <param ve-image 
        fit="contain"
+        label="Letter from Blanche Ames to Dr. Brown, November 6, 1951"
+       attribution="Blanche Ames Papers, 1860-1961; MC 193, folder 10. Schlesinger Library, Radcliffe Institute, Harvard University."
        url="Dr brown 1.jpg">
 <param ve-image 
        fit="contain"
+        label="Letter from Blanche Ames to Dr. Brown, November 6, 1951"
+       attribution="Blanche Ames Papers, 1860-1961; MC 193, folder 10. Schlesinger Library, Radcliffe Institute, Harvard University."
        url="Dr brown 2.jpg"
        rotate="90">
        
 ## Conclusion: Blanche's Archives at Harvard
-It is difficult to sum up a life and corpus as wide-ranging as that of Blanche Ames. A devoted feminist, Blanche harnessed the...not only to pursue a career in botany, but also...to ? for women's rights and healthcare. The gender and science question...twofold contribution, as a woman scientist and as a patron of science *for* women. To be sure, the battles she fought were not always won, and it is hard to imagine that...she did not face limited opportunities as a woman, which her privilege and proximity to power might have allowed her to side step. Even so, Botanical Museum Director Richard Schultes characterized Blanche as follows after her death: “If Mrs. Ames had been a man, we would have said of her that she was a ‘man of parts’...a person of much ability and many talents.” [] The hypothetical—if she had been a man—is a wide open question. What might she have done? It is hard to imagaine a more storied life. But this comment does still reflect a double standard imposed upon women...for, woman or not, it is abundantly evident she was 'of parts.' (pattern that women have to be exceptional?)
+It is difficult to sum up a life and corpus as wide-ranging as that of Blanche Ames. A devoted feminist, Blanche harnessed her privilege not only to pursue a career in botany as a woman scientist, but also to fight for women's rights and healthcare as a patron of science *for* women. To be sure, the battles she fought were not always won, but nonetheless she is remembered as a pioneering figure in her fields. Though her status and proximity to power allowed her to side step many of the limitations imposed upon women at the time, Blanche was of course not unaffected by sexism. Her husband's name often overshadowed her own, even in her 1969 obituary in the *New York Times*, which was titled "Mrs. Oakes Ames, Botanist's Widow." [^] Botanical Museum Director Richard Schultes characterized Blanche as follows: “If Mrs. Ames had been a man, we would have said of her that she was a ‘man of parts’...a person of much ability and many talents.” [^] The hypothetical—what if she had been a man?—is an open question we might ask of many 20th century women scientists. In Blanche's case, it is hard to imagaine a more storied life than her own. But Schultes' comment does reflect a double standard—if she had been a man, there would be a ready-made phrase to describe her abilities, which were unthinkable in the vocabulary associated with women. Women scientists had to—perhaps still have to—be exceptional to earn the dubious reward of positive comparison to men.
 
 Harvard is fortunate to host a wide collection of Blanche Ames’ papers, correspondence, and artwork across a number of holding libraries; the aim of this project was to bring some of these together to highlight Ames’ remarkable achievements across so many fields of endeavor. The Schlesinger Library holds a collection of Blanche Ames’ [papers](https://hollisarchives.lib.harvard.edu/repositories/8/resources/5221) and a separate digitized series of [her materials in the Women’s Suffrage collection](https://hollisarchives.lib.harvard.edu/repositories/8/resources/8098); the Botany Libraries hold materials from the [Botanical illustrations from the Oakes Ames Orchid Herbarium](https://hollisarchives.lib.harvard.edu/repositories/28/resources/10959#), including many of Ames’ botanical illustrations, educational posters, and artwork as well as those by other women artists; the Arnold Arboretum Archives holds the papers of other women scientists, like Susan McKelvey, who [corresponded with Blanche](https://hollisarchives.lib.harvard.edu/repositories/13/archival_objects/26700); the Harvard University Archives holds a [collection of Blanche Ames correspondence](https://hollisarchives.lib.harvard.edu/repositories/4/archival_objects/1088721) related to the Harvard Botanical Museum within the Oakes Ames papers; and finally, the Harvard Art Museum holds three of Blanche Ames’ [oil portraits](https://hvrd.art/o/304486).
 
@@ -99,7 +103,6 @@ Harvard is fortunate to host a wide collection of Blanche Ames’ papers, corres
        label="Still Life with Fruits, by Blanche Ames, 1916"
        attribution="Archives of the Economic Botany Herbarium of Oakes Ames, Harvard University"
        url="fruits painting.jpg">
-
 
 # Notes
 Banner image:
@@ -119,6 +122,7 @@ Banner image:
 [^14]: The League of Women Voters of Needham, "The Suffrage Cartoons of Blanche Ames
 Needham Public Library Exhibit," at https://lwv-needham.org/suffrage-cartoons-of-blanche-ames-2/
 [^15]:
-https://www.harvardmagazine.com/2017/07/blanche-ames
-https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1003&context=art_facpub
+[]: Letter from Blanche Ames on Catholic Opposition to MA Senate Bill No. 43, February 23, 1931. Blanche Ames Papers, 1860-1961; MC 193, folder 5. Schlesinger Library, Radcliffe Institute, Harvard University.
+
 Richard Evans Schultes, “Blanche Ames Ames: An Appreciation” 255
+Roman, C. V. "Woman's Work." Journal of the National Medical Association 2, no. 1 (1910): 1-6.
