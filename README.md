@@ -70,8 +70,7 @@ Besides her work in botanical illustration, Blanche also put her visual arts tra
 
 ## The Women's Health Advocate, Patron & Administrator
 
-One such cause to which Blanche was devoted was the fight for the right of Massachusetts women to access contraceptives and birth control, which she saw a crucial women's health issue. In 1916, Blanche co-founded the Birth Control League of Massachusetts, and served as its president for 19 years a years. older includes a copy of the papal decree..
-s.and Blanche's two-page rebuttal addressed to .."my dear fellow-citizens" of Masachussetts...pleading the public not to let Roman Catholic religious doctrine dictate the matter of public health..Senate Bill No. 43 at the MA State House in 1931. "We who are not members of the Catholic Church cannot submit to its domination in this case without sacriciing the lives andhelah of married women and their babies." [] The pamphlet to the right is among the print materials related to the campaign that Blanche collected, this time for a referendum on contraceptive use in 1942. Therw was a long road still ahead, as birth control did not become legalized in Massachusetts until 1966. [^] 
+One such cause to which Blanche was devoted was the fight for the right of Massachusetts women to access contraceptives and birth control, which she saw a crucial women's health issue. In 1916, Blanche co-founded the Birth Control League of Massachusetts, and served as its President for 19 years a years. Her public advocacy work includes a letter addressed to "my dear fellow-citizens" of Masachussetts, pleading the public not to let Roman Catholic religious doctrine dictate the matter of public health in response to the 1930 Papal Encycical decrying birth control as a sin. Without mincing words, Blanche wrote: "We who are not members of the Catholic Church cannot submit to its domination in this case without sacrificing the lives and the health of married women and their babies."[^15] She was denouncing Catholic opposition to Senate Bill No. 43 at the MA State House in 1931, which unfortunately prevailed. The pamphlet to the right is among the print materials related to birth control that Blanche collected, this time for a referendum on contraceptive use in 1942—even dissemination of information about birth control was illegal in the state at the time. There was a long road still ahead, as birth control did not become legalized in Massachusetts for both married and unmarried women until 1972.[^16] 
 
 <param ve-image 
        fit="contain"
@@ -79,7 +78,7 @@ s.and Blanche's two-page rebuttal addressed to .."my dear fellow-citizens" of Ma
        attribution="Blanche Ames Papers, 1860-1961; MC 193, folder 5. Schlesinger Library, Radcliffe Institute, Harvard University."
        url="Contraceptive Vote.jpg">
 
-Blanche was also closely involved with the New England Hospital for Women and Children and became its President in 1941. Founded in ?, with the goal of...training for women physicians, access for healthcare for women.  The letter displayed on the right...shows her commitment to the Hospital's founding principle of primarily hiring and training women doctors. Indeed, Blanche led a fundraising campaign to ensure that...this could continue. Her folders...also include annual reports of the New England Hospital dating back to 18??, which in themselves represent a remarkable archive of women in medical science in America.
+Blanche was also closely involved with the New England Hospital for Women and Children and became its President in 1941. The Hospital was founded on July 1, 1862 by <span eid="Q276312"> Marie Zakrzewska </span>, with the goal of training women physicians and improving access to healthcare for women. The letter displayed on the right...shows her commitment to the Hospital's founding principle of primarily hiring and training women doctors. Indeed, Blanche led a fundraising campaign to ensure that...this could continue. Her folders...also include annual reports of the New England Hospital dating back to 18??, which in themselves represent a remarkable archive of women in medical science in America.
 
 <param ve-image 
        fit="contain"
@@ -121,8 +120,9 @@ Banner image:
 [^13]: "Ames tells of Harvard Botanical Work in Cuba," *The Harvard Crimson*, March 23, 1929, at https://www.thecrimson.com/article/1929/3/23/ames-tells-of-harvard-botanical-work/?utm_source=thecrimson&utm_medium=web_primary&utm_campaign=recommend_sidebar
 [^14]: The League of Women Voters of Needham, "The Suffrage Cartoons of Blanche Ames
 Needham Public Library Exhibit," at https://lwv-needham.org/suffrage-cartoons-of-blanche-ames-2/
-[^15]:
-[]: Letter from Blanche Ames on Catholic Opposition to MA Senate Bill No. 43, February 23, 1931. Blanche Ames Papers, 1860-1961; MC 193, folder 5. Schlesinger Library, Radcliffe Institute, Harvard University.
+[^15]: Letter from Blanche Ames on Catholic Opposition to MA Senate Bill No. 43, February 23, 1931. Blanche Ames Papers, 1860-1961; MC 193, folder 5. Schlesinger Library, Radcliffe Institute, Harvard University.
+[^16]: "A Timeline of Contraception," *American Experience*, at https://www.pbs.org/wgbh/americanexperience/features/pill-timeline/._
+[^17]:
 
 Richard Evans Schultes, “Blanche Ames Ames: An Appreciation” 255
 Roman, C. V. "Woman's Work." Journal of the National Medical Association 2, no. 1 (1910): 1-6.
