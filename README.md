@@ -2,7 +2,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Artist, Botanist, Campaigner: Blanche Ames"
+       title="Artist, Botanist, Campaigner: Highlights of Harvard's Blanche Ames Collections"
        author="Katherine Enright, GENED 1127"
        banner="banner.jpg" 
        layout="vertical">
@@ -14,7 +14,7 @@
 
 
 # Who was Blanche Ames?
-Born in 1878 in Lowell, Massachusetts, Blanche Ames was known for her work as a botanical illustrator and a women’s rights and health advocate. From illustrating the seminal seven-volume text on orchids, *Illustrations and studies of the family Orchidaceae*, to co-founding the Birth Control League of Massachusetts, her achievements were many—and even include a U.S. patent for a technology to ensare enemy aircraft.[^1] The estate she built in with her husband, Oakes Ames, is now a Massacusetts [State Park](https://www.mass.gov/locations/borderland-state-park)—and famously one of the filming locations for 2017 horror film *Get Out*. Borderland, the name of the estate, is also the title of a 2020 documentary about Blanche and her women's rights activism, the trailer for which is on the right.
+Born in 1878 in Lowell, Massachusetts, Blanche Ames was known for her work as a botanical illustrator and a women’s rights and health advocate. From producing hundreds of illustrations of orchids to co-founding the Birth Control League of Massachusetts, her achievements were many—and even include a U.S. patent for a technology to ensare enemy aircraft.[^1] The estate she built in with her husband, Oakes Ames, is now a Massacusetts [State Park](https://www.mass.gov/locations/borderland-state-park)—and famously one of the filming locations for 2017 horror film *Get Out*. Borderland, the name of the estate, is also the title of a 2020 documentary about Blanche and her women's rights activism, the trailer for which is on the right.
 <param ve-video id="JxiSu1JZLDo" title="Borderland Trailer">
        
 Like many women of the time who were able to enter science, Blanche graduated from a women’s college—Smith, in 1900—and her entry into the field of botany was enabled by connections to her male family members.[^2] First of all, she came from wealth—she was the daughter of <span eid="Q354194">General Adelbert Ames</span> and granddaughter of <span eid="Q817488">Massachusetts Governer Benjamin Butler</span>—and so had no pressing need to find work for pay. Her first forays into botanical illustration, following her visual arts degree from Smith, came in the form of illustrating the botanical research of her husband, Harvard botany professor Oakes Ames. Indeed, throughout her long career as a scientific illustrator and creator of educational materials, Blanche was never a professional, *per se*, nor did she draw a salary for her work. In fact, writing in a memorial after her death, the then-director of the Harvard Botanical Museum described Blanche as “wife and lifelong helpmeet of Professor Oakes Ames, second director of the Botanical Museum," and noted that despite her contribtusions to the institution—"so profound they will always be appreciated…in the Museum and…the world of botany”— “Blanche Ames never held an official appointment as member of the Museum staff.” [^3]
@@ -62,7 +62,7 @@ The cartouche bearing the words “Harvard Botanical Garden” and the Harvard V
        url="cuba map.jpg">
 
 ## The Suffragist Cartoonist
-Besides her work in botanical illustration, Blanche also put her visual arts training to use as a political cartoonist, producing eight cartoons advocating for women's suffrage in such publications as the *Boston Transcript* and the *Woman’s Journal and Suffrage News*. Blanche authored these cartoons in 1915, in the lead up to a referendum on an article that would grant women the right to vote in Massachusetts.[^14] As research for her illustrations, Blanche compiled scrapbooks of news clippings, stickers, and other print materials. These scrapbooks are held at and digitized by the Schlesinger Library, and a sample page is presented in the viewer to the right. Notice the "Votes for Women" stamps on the right of the page, and the roster of the Men's League for Women's Suffrage pasted at the bottom. The Schlesinger's folders of Blanche's papers contain many such lists of potential voters and donors that she maintained, doubtless to facilitate a wide network of allies for her advocacy work. The Needham League of Women Voters hosted an [online exhibition](https://lwv-needham.org/suffrage-cartoons-of-blanche-ames-2/) of Blanche's cartoons that brings together each of her cartoons alongside context on the suffrage fight at the time. Unfortunately the 1915 vote in Massachusetts failed, but this experience did not deter Blanche—she went on to advocate for a number of other women's causes, in the political sphere and in helathcare, for the rest of her life.
+Besides her work in botanical illustration, Blanche also put her visual arts training to use as a political cartoonist, producing eight cartoons advocating for women's suffrage in such publications as the *Boston Transcript* and the *Woman’s Journal and Suffrage News*. Blanche authored these cartoons in 1915, in the lead up to a referendum on an article that would grant women the right to vote in Massachusetts.[^14] As research for her illustrations, Blanche compiled scrapbooks of news clippings, stickers, and other print materials. These scrapbooks are held at and digitized by the Schlesinger Library, and a sample page is presented in the viewer to the right. Notice the "Votes for Women" stamps on the right of the page, and the roster of the Men's League for Women's Suffrage pasted at the bottom. The Schlesinger's folders of Blanche's papers contain many such lists of potential voters and donors that she maintained, doubtless to facilitate a wide network of allies for her advocacy work. The Needham League of Women Voters hosted an [online exhibition](https://lwv-needham.org/suffrage-cartoons-of-blanche-ames-2/) of Blanche's cartoons that brings together each of her cartoons alongside context on the suffrage fight at the time. Unfortunately the 1915 vote in Massachusetts failed, but this experience did not deter Blanche—she went on to advocate for a number of other women's causes, in the political sphere and in healthcare, for the rest of her life.
 
 <param ve-image 
        fit="contain"
@@ -71,9 +71,12 @@ Besides her work in botanical illustration, Blanche also put her visual arts tra
 
 ## The Women's Health Advocate, Patron, Administrator
 
-Blanche was involved in birth control advocacy for women
+One such cause to which Blanche was devoted was the fight for the right of Massachusetts women to access contraceptives and birth control, a crucial women's health issue. In ?? year, Blanche co-founded the Birth Control League of Massachusetts, and served as its president for ??? years. The pamphlet to the right is among the print materials related to the campaign that Blanche collected....the same folder includes a copy of the papal decree...and Blanche's two-page rebuttal addressed to ..the citizens of Boston...pleading the public not to let Roman Catholic religious doctrine dictate the matter of public health.
+
 <param ve-image 
        fit="contain"
+       label="Pamphlet in support of the birth control referendum, by the Mother's Health Committee, 1942"
+       attribution="Blanche Ames Papers, 1860-1961; MC 193, folder 5. Schlesinger Library, Radcliffe Institute, Harvard University."
        url="Contraceptive Vote.jpg">
 
 Blanche also held ? position in the New England Hospital for Women and Children and did xyz.. fundraising to provide for a staff that was all women
