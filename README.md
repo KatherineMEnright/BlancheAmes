@@ -69,7 +69,7 @@ Besides her work in botanical illustration, Blanche also put her visual arts tra
        manifest="https://iiif.lib.harvard.edu/manifests/drs:492540327"
        seq="5">
 
-## The Women's Health Advocate, Patron, Administrator
+## The Women's Health Advocate, Patron & Administrator
 
 One such cause to which Blanche was devoted was the fight for the right of Massachusetts women to access contraceptives and birth control, a crucial women's health issue. In ?? year, Blanche co-founded the Birth Control League of Massachusetts, and served as its president for ??? years. The pamphlet to the right is among the print materials related to the campaign that Blanche collected....the same folder includes a copy of the papal decree...and Blanche's two-page rebuttal addressed to ..the citizens of Boston...pleading the public not to let Roman Catholic religious doctrine dictate the matter of public health.
 
@@ -93,6 +93,13 @@ Blanche also held ? position in the New England Hospital for Women and Children 
 It is difficult to sum up a life and corpus as wide-ranging as that of Blanche Ames. A devoted feminist, Blanche harnessed the...not only to pursue a career in botany, but also...to ? for women's rights and healthcare. The gender and science question...twofold contribution, as a woman scientist and as a patron of science *for* women. To be sure, the battles she fought were not always won, and it is hard to imagine that...she did not face limited opportunities as a woman, which her privilege and proximity to power might have allowed her to side step. Even so, Botanical Museum Director Richard Schultes characterized Blanche as follows after her death: “If Mrs. Ames had been a man, we would have said of her that she was a ‘man of parts’...a person of much ability and many talents.” [] The hypothetical—if she had been a man—is a wide open question. What might she have done? It is hard to imagaine a more storied life. But this comment does still reflect a double standard imposed upon women...for, woman or not, it is abundantly evident she was 'of parts.' (pattern that women have to be exceptional?)
 
 Harvard is fortunate to host a wide collection of Blanche Ames’ papers, correspondence, and artwork across a number of holding libraries; the aim of this project was to bring some of these together to highlight Ames’ remarkable achievements across so many fields of endeavor. The Schlesinger Library holds a collection of Blanche Ames’ [papers](https://hollisarchives.lib.harvard.edu/repositories/8/resources/5221) and a separate digitized series of [her materials in the Women’s Suffrage collection](https://hollisarchives.lib.harvard.edu/repositories/8/resources/8098); the Botany Libraries hold materials from the [Botanical illustrations from the Oakes Ames Orchid Herbarium](https://hollisarchives.lib.harvard.edu/repositories/28/resources/10959#), including many of Ames’ botanical illustrations, educational posters, and artwork as well as those by other women artists; the Arnold Arboretum Archives holds the papers of other women scientists, like Susan McKelvey, who [corresponded with Blanche](https://hollisarchives.lib.harvard.edu/repositories/13/archival_objects/26700); the Harvard University Archives holds a [collection of Blanche Ames correspondence](https://hollisarchives.lib.harvard.edu/repositories/4/archival_objects/1088721) related to the Harvard Botanical Museum within the Oakes Ames papers; and finally, the Harvard Art Museum holds three of Blanche Ames’ [oil portraits](https://hvrd.art/o/304486).
+
+<param ve-image 
+       fit="contain"
+       label="Still Life with Fruits, by Blanche Ames, 1916"
+       attribution="Archives of the Economic Botany Herbarium of Oakes Ames, Harvard University"
+       url="fruits painting.jpg">
+
 
 # Notes
 Banner image:
